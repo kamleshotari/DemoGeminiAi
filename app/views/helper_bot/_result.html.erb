@@ -1,0 +1,11 @@
+<div class="row col-xs-12">
+    <div class="widget-body alert alert-info">
+        <div class="widget-main">
+            <%markdown = Redcarpet::Markdown.new(Redcarpet::Render::HTML,:autolink => true, :space_after_headers => true)%>
+            <%= markdown.render(@result).html_safe %>
+        </div>
+    </div>
+</div>
+
+
+										
