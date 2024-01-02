@@ -1,0 +1,31 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+  <head>
+    <title>GEN AI</title>
+    <% if Rails.env == "production"%>
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <% end%>
+    <%= stylesheet_link_tag 'application', media: 'all' %>
+    <%= javascript_include_tag 'application' %>
+    <%= csrf_meta_tags %>
+  </head>
+  <body class= "no-skin" style="font-family: 'Open Sans','Helvetica Neue',Helvetica,Arial,sans-serif;">
+    <%= render :partial => "layouts/header" %>
+    <div class="main-container" id="main-container">
+      <div class="main-content">
+        <% if flash[:notice].present? %>
+          <div class="alert alert-success flash-notice-alert">
+            <%= notice %>
+          </div>
+        <% end %>
+        <% if flash[:alert].present? %>
+          <div class="alert alert-danger flash-notice-alert">
+            <%= alert %>
+          </div>
+        <% end %>
+
+        <%= yield %>
+      </div>
+    </div>
+  </body>
+</html>
