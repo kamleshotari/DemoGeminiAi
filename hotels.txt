@@ -1,0 +1,11 @@
+description,star_rating
+"Luxurious boutique hotel in the heart of Paris, featuring elegant rooms with marble bathrooms and stunning city views. Fine dining restaurant and rooftop bar offering panoramic vistas.",5
+"Cozy bed and breakfast nestled in a charming seaside village. Simple but comfortable rooms, delicious homemade breakfasts, and friendly staff. Perfect for a relaxing getaway.",4
+"Modern high-rise hotel in the downtown business district, offering spacious rooms with technology amenities and city skyline views. Conference rooms and fitness center available.",4
+"Family-friendly resort on a beautiful beach, with multiple pools, children's activities, and water sports rentals. All-inclusive packages and beachfront dining options.",4
+"Historic hotel in a quaint European town, boasting traditional architecture, antique furnishings, and a charming garden. Intimate atmosphere and personalized service.",4
+"Budget-friendly hostel in a central location, with dormitory-style rooms and shared bathrooms. Common area with kitchen facilities and a lively atmosphere. Ideal for young travelers.",2
+"Luxury eco-lodge in the rainforest, offering bungalows with private balconies and breathtaking nature views. Guided tours, spa treatments, and sustainable practices.",5
+"Spacious apartment hotel in a vibrant neighborhood, with fully equipped kitchens, separate living areas, and balcony access. Convenient location near restaurants and shops.",3
+"Boutique hotel housed in a restored Victorian mansion, featuring unique décor, a cozy library, and afternoon tea service. Intimate setting and personalized attention.",4
+"Modern airport hotel, offering soundproofed rooms, convenient shuttle service, and business facilities. Ideal for stopovers and business travelers.",3
