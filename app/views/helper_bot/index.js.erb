@@ -1,1 +1,2 @@
 $('#result-container .row:last').after("<%= escape_javascript(render :partial => 'result')%>")
+window.scrollTo({ left: 0, top: document.body.scrollHeight, behavior: "smooth" });
