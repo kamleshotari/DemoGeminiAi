@@ -15,6 +15,6 @@ provider:
   id: google
   credentials:
     service: generative-language-api
-    api-key: ENV['GEMINI_API_KEY']
+    api-key: <%= ENV['GEMINI_API_KEY'] %>
   options:
     model: gemini-pro

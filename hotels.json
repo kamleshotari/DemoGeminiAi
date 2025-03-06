@@ -1,0 +1,56 @@
+[
+  {
+    "description": "Charming boutique hotel nestled in a cobblestone street, featuring cozy rooms with exposed brick walls, intimate fireplace lounge, and rooftop terrace with city views. Perfect for romantic getaways.",
+    "star_rating": 5,
+    "price_range": "Luxury",
+    "location": "Paris, France",
+    "amenities": "Pool, Spa, Rooftop bar, Restaurant",
+    "atmosphere": "Romantic, Boutique",
+    "nearby_attractions": "Louvre Museum, Notre Dame Cathedral"
+  },
+  {
+    "description": "Modern high-rise hotel in the heart of the financial district, offering sleek rooms with panoramic city views, business center, and state-of-the-art gym. Ideal for business travelers.",
+    "star_rating": 4,
+    "price_range": "Mid-range",
+    "location": "New York City, USA",
+    "amenities": "Fitness center, Business center, Conference rooms, Restaurant",
+    "atmosphere": "Business-oriented, Modern",
+    "nearby_attractions": "Wall Street, Times Square"
+  },
+  {
+    "description": "Family-friendly beachfront resort with multiple pools, kids' club, water sports rentals, and all-inclusive packages. Located directly on a sandy beach with stunning ocean views.",
+    "star_rating": 4,
+    "price_range": "Budget",
+    "location": "Phuket, Thailand",
+    "amenities": "Kids' club, Water sports, Multiple pools, All-inclusive",
+    "atmosphere": "Family-friendly, Beachfront",
+    "nearby_attractions": "Phi Phi Islands, Night markets"
+  },
+  {
+    "description": "Eco-lodge situated in a lush rainforest, offering rustic bungalows with private balconies and breathtaking nature views. Guided jungle tours, spa treatments, and sustainable practices. Ideal for nature enthusiasts.",
+    "star_rating": 5,
+    "price_range": "Luxury",
+    "location": "Amazon rainforest, Brazil",
+    "amenities": "Spa, Guided tours, Hiking trails, Restaurant",
+    "atmosphere": "Eco-friendly, Adventure",
+    "nearby_attractions": "Rio Negro River, National park"
+  },
+  {
+    "description": "Budget-friendly hostel in a vibrant neighborhood, with dormitory-style rooms and shared bathrooms. Common area with kitchen facilities and a lively atmosphere. Perfect for young travelers on a budget.",
+    "star_rating": 2,
+    "price_range": "Budget",
+    "location": "Berlin, Germany",
+    "amenities": "Shared kitchen, Bar, Lounge area, Tours",
+    "atmosphere": "Budget-friendly, Sociable",
+    "nearby_attractions": "Brandenburg Gate, Checkpoint Charlie"
+  },
+  {
+    "description": "Stylish art deco hotel housed in a former theater, featuring unique artwork, a trendy rooftop bar, and intimate jazz club. Ideal for artistic individuals seeking a vibrant experience.",
+    "star_rating": 4,
+    "price_range": "Mid-range",
+    "location": "Chicago, USA",
+    "amenities": "Rooftop bar, Jazz club, Art gallery, Restaurant",
+    "atmosphere": "Artsy, Vibrant",
+    "nearby_attractions": "Art Institute of Chicago, Millennium Park"
+  }
+]

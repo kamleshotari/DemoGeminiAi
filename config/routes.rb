@@ -1,5 +1,8 @@
 Rails.application.routes.draw do
+  get 'home/index'
   get '/helper_bot', to: 'helper_bot#index'
-  # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  resources :widget, only: :index
   post 'reviews/analyze', to: 'reviews#analyze'
+
+  root 'home#index'
 end
