@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
   get '/helper_bot', to: 'helper_bot#index'
   # For details on the DSL available within this file, see https://guides.rubyonrails.org/routing.html
+  post 'reviews/analyze', to: 'reviews#analyze'
 end
